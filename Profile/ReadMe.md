@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Resource/JICSoftwares-Gradient.png" />
+  <img src="https://raw.githubusercontent.com/JICSoftwares/.github/refs/heads/main/Resource/JICSoftwares-Gradient.png" />
 </p>
 
 Repository | Build & Test | [![semver](https://img.shields.io/badge/semver-2.0.0-blue)](https://semver.org/) | Description
